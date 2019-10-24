@@ -1,0 +1,100 @@
+@font-face {
+        font-family: 'Mrs Saint Delafield';
+        font-weight: 400;
+        font-style: normal;
+
+        src:
+          local('Mrs Saint Delafield'), 
+          local('MrsSaintDelafield-Regular'), 
+          url(https://fonts.gstatic.com/s/mrssaintdelafield/v7/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKknLw.woff2) format('woff2');
+      }
+      @font-face {
+        font-family: 'Badhead Typeface';
+        font-weight: 400;
+        font-style: normal;
+
+        src: local('Badhead Typeface'),
+          url('${sureurl}/fonts/en/Badhead Typeface.otf') format('opentype'),
+          url('${sureurl}/fonts/en/Badhead Typeface.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Banthers';
+        font-weight: 400;
+        font-style: normal;
+
+        src: local('Banthers'),
+          url('${sureurl}/fonts/en/Banthers.otf') format('opentype'),
+          url('${sureurl}/fonts/en/Banthers.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Connoisseurs';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('Connoisseurs'),
+          url('${sureurl}/fonts/en/Connoisseurs.otf') format('opentype'),
+          url('${sureurl}/fonts/en/Connoisseurs.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Cutepunk_Regular';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('Cutepunk_Regular'),
+          url('${sureurl}/fonts/en/Cutepunk_Regular.otf') format('opentype');
+      }
+      @font-face {
+        font-family: 'Elrotex Basic';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('Elrotex Basic'),
+          url('${sureurl}/fonts/en/Elrotex Basic.otf') format('opentype'),
+          url('${sureurl}/fonts/en/Elrotex Basic.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'GreatVibes-Regular';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('GreatVibes-Regular'),
+          url('${sureurl}/fonts/en/GreatVibes-Regular.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'KLSweetPineappleRegular';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('KLSweetPineappleRegular'),
+          url('${sureurl}/fonts/en/KLSweetPineappleRegular.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Mightype Script';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('Mightype Script'),
+          url('${sureurl}/fonts/en/Mightype Script.otf') format('opentype');
+      }
+      @font-face {
+        font-family: 'pops_08_REGULAR';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('pops_08_REGULAR'),
+          url('${sureurl}/fonts/en/pops_08_REGULAR.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'somethingwild-Regular';
+        font-weight: 400;
+        font-style: normal;
+
+        src:  local('somethingwild-Regular'),
+          url('${sureurl}/fonts/en/somethingwild-Regular.otf') format('opentype'),
+          url('${sureurl}/fonts/en/somethingwild-Regular.ttf') format('truetype');
+      }
+      
+      text {
+        font-family: Mrs Saint Delafield,
+        fill: #000
+      }
