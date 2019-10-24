@@ -1,0 +1,332 @@
+/**
+  * English Fonts
+  *
+  * ['Mrs Saint Delafield', 'Badhead Typeface', 'Banthers', 
+    'Connoisseurs', 'Cutepunk_Regular', 'Elrotex Basic', 
+    'GreatVibes-Regular', 'KLSweetPineappleRegular', 'Mightype Script', 'pops_08_REGULAR', 'somethingwild-Regular']
+  *
+  */
+@font-face {
+  font-family: 'Mrs Saint Delafield';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Mrs Saint Delafield'),
+    url('fonts/en/Mrs Saint Delafield.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Badhead Typeface';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Badhead Typeface'),
+    url('fonts/en/Badhead Typeface.woff2') format('woff2'),
+    url('fonts/en/Badhead Typeface.woff') format('woff'),
+    url('fonts/en/Badhead Typeface.ttf') format('truetype'),
+    url('fonts/en/Badhead Typeface.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Banthers';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Banthers'),
+    url('fonts/en/Banthers.woff2') format('woff2'),
+    url('fonts/en/Banthers.woff') format('woff'),
+    url('fonts/en/Banthers.ttf') format('truetype'),
+    url('fonts/en/Banthers.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Connoisseurs';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Connoisseurs'),
+    url('fonts/en/Connoisseurs.woff2') format('woff2'),
+    url('fonts/en/Connoisseurs.woff') format('woff'),
+    url('fonts/en/Connoisseurs.ttf') format('truetype'),
+    url('fonts/en/Connoisseurs.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Cutepunk_Regular';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Cutepunk_Regular'),
+    url('fonts/en/Cutepunk_Regular.woff2') format('woff2'),
+    url('fonts/en/Cutepunk_Regular.woff') format('woff'),
+    url('fonts/en/Cutepunk_Regular.ttf') format('truetype'),
+    url('fonts/en/Cutepunk_Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Elrotex Basic';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Elrotex Basic'),
+    url('fonts/en/Elrotex Basic.woff2') format('woff2'),
+    url('fonts/en/Elrotex Basic.woff') format('woff'),
+    url('fonts/en/Elrotex Basic.ttf') format('truetype'),
+    url('fonts/en/Elrotex Basic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'GreatVibes-Regular';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('GreatVibes-Regular'),
+    url('fonts/en/GreatVibes-Regular.woff2') format('woff2'),
+    url('fonts/en/GreatVibes-Regular.woff') format('woff'),
+    url('fonts/en/GreatVibes-Regular.ttf') format('truetype'),
+    url('fonts/en/GreatVibes-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'KLSweetPineappleRegular';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('KLSweetPineappleRegular'),
+    url('fonts/en/KLSweetPineappleRegular.woff2') format('woff2'),
+    url('fonts/en/KLSweetPineappleRegular.woff') format('woff'),
+    url('fonts/en/KLSweetPineappleRegular.ttf') format('truetype'),
+    url('fonts/en/KLSweetPineappleRegular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Mightype Script';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Mightype Script'),
+    url('fonts/en/Mightype Script.woff2') format('woff2'),
+    url('fonts/en/Mightype Script.woff') format('woff'),
+    url('fonts/en/Mightype Script.ttf') format('truetype'),
+    url('fonts/en/Mightype Script.otf') format('opentype');
+}
+@font-face {
+  font-family: 'pops_08_REGULAR';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('pops_08_REGULAR'),
+    url('fonts/en/pops_08_REGULAR.woff2') format('woff2'),
+    url('fonts/en/pops_08_REGULAR.woff') format('woff'),
+    url('fonts/en/pops_08_REGULAR.ttf') format('truetype'),
+    url('fonts/en/pops_08_REGULAR.otf') format('opentype');
+}
+@font-face {
+  font-family: 'somethingwild-Regular';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('somethingwild-Regular'),
+    url('fonts/en/somethingwild-Regular.woff2') format('woff2'),
+    url('fonts/en/somethingwild-Regular.woff') format('woff'),
+    url('fonts/en/somethingwild-Regular.ttf') format('truetype'),
+    url('fonts/en/somethingwild-Regular.otf') format('opentype');
+}
+
+
+/**
+  * Korean Fonts
+  *
+  * ['KimNamyun', 'KCC-eunyoung', 'Goyang', 
+    'SangSangFlowerRoad', 'InkLipquid', 
+    'OTEnjoystoriesBA', 'Dovemayo-Medium', 
+    'SDMiSaeng', 'HSGyoulnoonkot', 'Jeju Hallasan']
+  *
+  */
+@font-face {
+  font-family: 'KimNamyun';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('KimNamyun'),
+    url('fonts/en/KimNamyun.woff2') format('woff2'),
+    url('fonts/en/KimNamyun.woff') format('woff'),
+    url('fonts/en/KimNamyun.ttf') format('truetype'),
+    url('fonts/en/KimNamyun.otf') format('opentype');
+}
+@font-face {
+  font-family: 'KCC-eunyoung';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('KCC-eunyoung'),
+    url('fonts/en/KCC-eunyoung.woff2') format('woff2'),
+    url('fonts/en/KCC-eunyoung.woff') format('woff'),
+    url('fonts/en/KCC-eunyoung.ttf') format('truetype'),
+    url('fonts/en/KCC-eunyoung.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Goyang';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Goyang'),
+    url('fonts/en/Goyang.woff2') format('woff2'),
+    url('fonts/en/Goyang.woff') format('woff'),
+    url('fonts/en/Goyang.ttf') format('truetype'),
+    url('fonts/en/Goyang.otf') format('opentype');
+}
+@font-face {
+  font-family: 'SangSangFlowerRoad';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('SangSangFlowerRoad'),
+    url('fonts/en/SangSangFlowerRoad.woff2') format('woff2'),
+    url('fonts/en/SangSangFlowerRoad.woff') format('woff'),
+    url('fonts/en/SangSangFlowerRoad.ttf') format('truetype'),
+    url('fonts/en/SangSangFlowerRoad.otf') format('opentype');
+}
+@font-face {
+  font-family: 'InkLipquid';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('InkLipquid'),
+    url('fonts/en/InkLipquid.woff2') format('woff2'),
+    url('fonts/en/InkLipquid.woff') format('woff'),
+    url('fonts/en/InkLipquid.ttf') format('truetype'),
+    url('fonts/en/InkLipquid.otf') format('opentype');
+}
+@font-face {
+  font-family: 'OTEnjoystoriesBA';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('OTEnjoystoriesBA'),
+    url('fonts/en/OTEnjoystoriesBA.woff2') format('woff2'),
+    url('fonts/en/OTEnjoystoriesBA.woff') format('woff'),
+    url('fonts/en/OTEnjoystoriesBA.ttf') format('truetype'),
+    url('fonts/en/OTEnjoystoriesBA.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Dovemayo-Medium';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Dovemayo-Medium'),
+    url('fonts/en/Dovemayo-Medium.woff2') format('woff2'),
+    url('fonts/en/Dovemayo-Medium.woff') format('woff'),
+    url('fonts/en/Dovemayo-Medium.ttf') format('truetype'),
+    url('fonts/en/Dovemayo-Medium.otf') format('opentype');
+}
+@font-face {
+  font-family: 'SDMiSaeng';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('SDMiSaeng'),
+    url('fonts/en/SDMiSaeng.woff2') format('woff2'),
+    url('fonts/en/SDMiSaeng.woff') format('woff'),
+    url('fonts/en/SDMiSaeng.ttf') format('truetype'),
+    url('fonts/en/SDMiSaeng.otf') format('opentype');
+}
+@font-face {
+  font-family: 'HSGyoulnoonkot';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('HSGyoulnoonkot'),
+    url('fonts/en/HSGyoulnoonkot.woff2') format('woff2'),
+    url('fonts/en/HSGyoulnoonkot.woff') format('woff'),
+    url('fonts/en/HSGyoulnoonkot.ttf') format('truetype'),
+    url('fonts/en/HSGyoulnoonkot.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Jeju Hallasan';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('Jeju Hallasan'),
+    url('fonts/en/Jeju Hallasan.woff2') format('woff2'),
+    url('fonts/en/Jeju Hallasan.woff') format('woff'),
+    url('fonts/en/Jeju Hallasan.ttf') format('truetype'),
+    url('fonts/en/Jeju Hallasan.otf') format('opentype');
+}
+
+/**
+  * Japanese Fonts
+  *
+  * ['AsobiMemogaki-Regular-1-01', 'crayon_1-1', 'RiiPopkkR', 
+    'RiiT_F', 'sjis_sp_setofont', 'GenEiLateGoN_v2', 'GenEiAntiquePv5-M']
+  *
+  */
+@font-face {
+  font-family: 'AsobiMemogaki-Regular-1-01';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('AsobiMemogaki-Regular-1-01'),
+    url('fonts/en/AsobiMemogaki-Regular-1-01.woff2') format('woff2'),
+    url('fonts/en/AsobiMemogaki-Regular-1-01.woff') format('woff'),
+    url('fonts/en/AsobiMemogaki-Regular-1-01.ttf') format('truetype'),
+    url('fonts/en/AsobiMemogaki-Regular-1-01.otf') format('opentype');
+}
+@font-face {
+  font-family: 'crayon_1-1';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('crayon_1-1'),
+    url('fonts/en/crayon_1-1.woff2') format('woff2'),
+    url('fonts/en/crayon_1-1.woff') format('woff'),
+    url('fonts/en/crayon_1-1.ttf') format('truetype'),
+    url('fonts/en/crayon_1-1.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RiiPopkkR';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('RiiPopkkR'),
+    url('fonts/en/RiiPopkkR.woff2') format('woff2'),
+    url('fonts/en/RiiPopkkR.woff') format('woff'),
+    url('fonts/en/RiiPopkkR.ttf') format('truetype'),
+    url('fonts/en/RiiPopkkR.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RiiT_F';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('RiiT_F'),
+    url('fonts/en/RiiT_F.woff2') format('woff2'),
+    url('fonts/en/RiiT_F.woff') format('woff'),
+    url('fonts/en/RiiT_F.ttf') format('truetype'),
+    url('fonts/en/RiiT_F.otf') format('opentype');
+}
+@font-face {
+  font-family: 'sjis_sp_setofont';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('sjis_sp_setofont'),
+    url('fonts/en/sjis_sp_setofont.woff2') format('woff2'),
+    url('fonts/en/sjis_sp_setofont.woff') format('woff'),
+    url('fonts/en/sjis_sp_setofont.ttf') format('truetype'),
+    url('fonts/en/sjis_sp_setofont.otf') format('opentype');
+}
+@font-face {
+  font-family: 'GenEiLateGoN_v2';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('GenEiLateGoN_v2'),
+    url('fonts/en/GenEiLateGoN_v2.woff2') format('woff2'),
+    url('fonts/en/GenEiLateGoN_v2.woff') format('woff'),
+    url('fonts/en/GenEiLateGoN_v2.ttf') format('truetype'),
+    url('fonts/en/GenEiLateGoN_v2.otf') format('opentype');
+}
+@font-face {
+  font-family: 'GenEiAntiquePv5-M';
+  font-weight: 400;
+  font-style: normal;
+
+  src:  local('GenEiAntiquePv5-M'),
+    url('fonts/en/GenEiAntiquePv5-M.woff2') format('woff2'),
+    url('fonts/en/GenEiAntiquePv5-M.woff') format('woff'),
+    url('fonts/en/GenEiAntiquePv5-M.ttf') format('truetype'),
+    url('fonts/en/GenEiAntiquePv5-M.otf') format('opentype');
+}
